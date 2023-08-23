@@ -16,8 +16,9 @@ p {
 }
 
 img {
-    width:100%;
-    
+    width:60%;
+    margin-left:20%;
+    margin-right:20%;
     border-style: solid;
     border-color: white;
     border-width: 5px;
